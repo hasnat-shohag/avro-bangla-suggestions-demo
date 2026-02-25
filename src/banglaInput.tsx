@@ -91,7 +91,7 @@ export default function BanglaInput() {
 					}}
 					onMouseDown={(e) => e.preventDefault()} // Prevent blur
 				>
-					{suggestions.map((item, idx) => {
+					{suggestions.map((item: string, idx: number) => {
 						const isSelected = selectedSuggestionIndex === idx;
 
 						return (

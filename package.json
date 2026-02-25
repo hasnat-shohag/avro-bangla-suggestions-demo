@@ -10,7 +10,7 @@
 		"preview": "vite preview"
 	},
 	"dependencies": {
-		"avro-bangla-suggestions": "^0.0.3",
+		"avro-bangla-suggestions": "^0.0.8",
 		"react": "^19.2.0",
 		"react-dom": "^19.2.0"
 	},
